@@ -1,3 +1,2 @@
 #!/bin/bash
-find . -type d -exec chmod +111 {} \
-     
+sudo chmod -R +111 .
