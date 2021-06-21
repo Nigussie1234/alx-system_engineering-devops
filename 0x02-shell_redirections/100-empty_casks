@@ -1,2 +1,2 @@
 #!/bin/bash
-find ~/lists -empty -exec ls -1a {} \
+find ~\lists -empty -exec ls -Fd1a {} \
