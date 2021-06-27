@@ -1,2 +1,2 @@
 #!/bin/bash
-find ~\lists -empty -exec ls -Fd1a {} \
+find . -empty -printf "%f\n"
